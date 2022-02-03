@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="register-container">
-        <h1 className="register-title">Screen Shop</h1>
+        <h1 className="register-title">Games Shop</h1>
         <input
           type="text"
           name="name"
