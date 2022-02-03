@@ -7,6 +7,10 @@ Sistema que Cadastra, Lista, Altera e Deleta Jogos, desenvolvido em:
 - HTML
 - MySql
 
+Usei também:
+- Axios
+- ExpressJS
+
 Campos:
 - Nome 
 - Preço
